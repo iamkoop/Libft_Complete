@@ -1,2 +1,2 @@
-# Libft_Complete
-This is libft the other functions like gnl and printf included
+# 42_Printf
+Printf: Second Project at 42. Here i had to rebuild some functionalitys of the printf function
